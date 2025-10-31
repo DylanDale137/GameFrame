@@ -1,3 +1,0 @@
-# TextObject Module
-
-::: GameFrame.TextObject

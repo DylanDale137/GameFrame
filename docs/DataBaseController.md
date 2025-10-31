@@ -1,3 +1,0 @@
-# DataBaseController Module
-
-::: GameFrame.DataBaseController
